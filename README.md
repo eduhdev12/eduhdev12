@@ -1,6 +1,6 @@
 # Hello! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="29px">
 <p align="center">
-<a href="https://discord.gg/c6EXUwN" target="blank"><img align="center" src="discord.svg" alt="discord" height="30" width="30" /></a>&nbsp;
+<a href="https://discord.gg/WyG37gWjcU" target="blank"><img align="center" src="discord.svg" alt="discord" height="30" width="30" /></a>&nbsp;
 <a href="https://instagram.com/eduh__" target="blank"><img align="center" src="instagram.svg" alt="instagram" height="30" width="30" /></a>&nbsp;
 <a href="https://www.twitch.tv/eduhdev12" target="blank"><img align="center" src="twitch.svg" alt="twtich" height="30" width="30" /></a>&nbsp;
 <a href="https://www.buymeacoffee.com/eduh"><img align="center" alt="Buy me a Coffee" width="30px" src="buymeacoffee.svg" /></a>
