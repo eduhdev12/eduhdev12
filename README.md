@@ -9,13 +9,13 @@
 ### 👨‍💻 About Me:
 - 🏦 My name is Eduard, known as eduh, I am a 17 year old self-taught developer from Romania. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💼 I am working on: [Ethereal]("") (FiveM server), [Zerox]("") (Intuitive media player), [Dog]("https://top.gg/bot/765229559305732096") (Universal discord bot) 
+- 💼 I am working on: [Ethereal]("") (FiveM server), [Zerox]("") (Intuitive media player), [Dog](https://top.gg/bot/765229559305732096) (Universal discord bot) 
 - 💻 I use daily **.tsx**, **.js**, **.lua**, **.cs**
 - 🎓 Currently trying to learn new things constantly
 - 🌎 Open source projects: <br/>
-      - [Zerox-v1]("https://github.com/eduhdev12/Zerox-Media-Player") - (Old version) <br/>
-      - [LixController]("https://github.com/eduhdev12/LixController") (Intuitive web-dashboard to control your linux machine) <br/>
-      - [rain-lively-wallpaper]("https://github.com/eduhdev12/rain-lively-wallpaper") (2D Rain effect for livelywallpaper)
+      - [Zerox-v1](https://github.com/eduhdev12/Zerox-Media-Player) - (Old version) <br/>
+      - [LixController](https://github.com/eduhdev12/LixController) (Intuitive web-dashboard to control your linux machine) <br/>
+      - [rain-lively-wallpaper](https://github.com/eduhdev12/rain-lively-wallpaper) (2D Rain effect for livelywallpaper)
 - ⚡ First you learn then you remove the "L"
 
 <p align="center">
