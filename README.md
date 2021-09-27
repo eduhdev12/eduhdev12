@@ -30,6 +30,7 @@
 </p>
 
 ---
-### 🐱‍👤 My Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduhdev12&show_icons=true&theme=merko&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduhdev12&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+### 🐱‍👤 My GitHub Stats:
+<p align="center">
+      <img height="150px" src="https://github-readme-stats.vercel.app/api?username=eduhdev12&show_icons=true&count_private=true&theme=merko" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduhdev12&layout=compact&count_private=true&theme=merko" />
+</p>
