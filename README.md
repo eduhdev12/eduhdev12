@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me:
 - 🏦 My name is Eduard, known as eduh, I am a 17 years old self-taught developer from Romania. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💼 I am working on: [Ethereal]("") (FiveM server), [Zerox](http://zerox.pro) (Intuitive media player), [Dog](https://top.gg/bot/765229559305732096) (Universal discord bot) 
+- 💼 I am working on: [Ethereal](https://ethereal.ro) (FiveM server), [Zerox](http://zerox.pro) (Intuitive media player), [Dog](https://top.gg/bot/765229559305732096) (Universal discord bot) 
 - 💻 I use daily **.tsx**, **.js**, **.lua**, **.cs**
 - 🎓 Currently trying to learn new things constantly
 - 🌎 Open source projects: <br/>
